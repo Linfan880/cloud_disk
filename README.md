@@ -12,7 +12,7 @@
 
 **2.FastCGI作为中间件，处理Nginx的转发的动态请求**。
 
-**3.以FastDFS作为分布式的存储方案。（https://github.com/happyfish100/fastdfs.git）**
+**3.以FastDFS作为分布式的存储方案。（https://github.com/happyfish100/fastdfs）**
 
 **4.以redis作为内存数据库，存储用户token等信息。（项目中采用hiredis的开源框架编写cgi程序）**
 
