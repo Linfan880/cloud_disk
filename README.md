@@ -28,7 +28,7 @@
 
 紧接着启动Qt前端程序，登录界面如下：
 
-![](pic/login.jpg)
+![login](https://github.com/Linfan880/cloud_disk/blob/master/pic/login.jpg)
 
 设置界面需要写入需要连接的主机IP地址和端口号，IP地址需要核对待连主机的IP，可以采用ifconfig查看，端口默认是80，因为所有的请求都会先经过Nginx，而Nginx的默认端口是80：
 
